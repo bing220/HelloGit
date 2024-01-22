@@ -4,6 +4,6 @@
 
 int main()
 {    
-    printf("Hello Anderw in branch 1!\n");
+    printf("Hello Anderw in main branch!\n");
     return 0;
 }
