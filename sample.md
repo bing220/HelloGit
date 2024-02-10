@@ -100,6 +100,7 @@ Indented code
     line 2 of code
     line 3 of code
     line 4 of code
+    line 5 of code
 
 
 Block code "fences"
