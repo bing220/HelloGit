@@ -6,6 +6,6 @@
 
 int main()
 {    
-    printf("Hello Anderw in main branch!\n");
+    printf("Hello Git in main branch!\n");
     return 0;
 }
