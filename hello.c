@@ -1,7 +1,6 @@
 /* Test Github*/
 /* test wincred */
-/* test wsl 2 */
-/* test linux */
+/* test wsl 2 */ 
 
 #include <stdio.h>
 
